@@ -1,5 +1,5 @@
 # CodeU Team AMA
-We expanded upong the initial base CodeU application to make it our own. We opted to create a chat application that allowed users to interact with one another by utalizing the Google Maps API. The "Maps" page, let's users post comments or insights to particular places from around the world. Futhermore, users can edit their pages to customize it to however they like. Teammates included: @aylinev2 @acolwell (PA) 
+We expanded upon the initial base CodeU application to make it our own. We opted to create a chat application that allowed users to interact with one another by utalizing the Google Maps API. The "Maps" page, let's users post comments or insights to particular places from around the world. Futhermore, users can edit their pages to customize it to however they like. Teammates included: @aylinev2 @acolwell (PA) 
 
 ## Step 1: Download Java
 
