@@ -1,0 +1,20 @@
+#navScroll {
+  background-color: #000;
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+  width: 200px;
+}
+
+.scrolling-box {
+  background-color: #eaeaea;
+  display: block;
+  height: 600px;
+  overflow-y: scroll;
+  width: 800px;
+}
+
+section {
+  display: flex;
+  height: 100%;
+}
