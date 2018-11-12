@@ -1,0 +1,13 @@
+#navScroll {
+  display: block;
+  padding: 1em 0;
+  text-align: center;
+  width: 200px;
+}
+
+.scrolling-box {
+  display: block;
+  height: 600px;
+  overflow-y: scroll;
+  width: 800px;
+}

@@ -1,0 +1,165 @@
+/* Copyright 2017 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+body {
+  margin: 0;
+  font-family: Trebuchet MS;
+  line-height: 1.6;
+  font-size: 18px;
+  line-height: 1.6;
+  color: #444;
+  background-color: #c7fffd;
+}
+
+nav {
+  background-color: #353535;
+}
+
+nav a {
+  color: white;
+  display: inline-block;
+  font-size: 24px;
+  margin: 15px;
+  text-decoration: none;
+}
+
+nav h1 {
+  color: white;
+  display: inline-block;
+  font-size: 24px;
+  margin: 15px;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+nav a:hover {
+  color: #55d8d3;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #8e8e8e;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(142, 142, 142);
+}
+
+#mapIt {
+  width: 125px;
+  height: 40px;
+  margin-left: 50px;
+}
+
+#activity {
+  background-color: white;
+  height: 475px;
+  overflow-y: scroll
+}
+
+#navTitle {
+  font-size: 36px;
+}
+
+#link {
+  text-decoration: none;
+  color: black;
+}
+
+#link:hover {
+  color: #55d8d3;
+}
+
+#ul-link {
+  text-decoration: underline;
+  font-weight: bold;
+  color: black;
+}
+
+#ul-link:hover {
+  color: #55d8d3;
+}
+
+#container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+#container2 { 
+  margin-left: 25px;
+  margin-right: auto;
+  width: 550px;
+}
+
+.text-box {
+  padding:3%;
+  font:18px sans-serif;
+}
+
+#map {  
+  margin-left: 600px;
+  margin-top: -765px;
+  width: 700px;
+  height: 700px;
+}
+
+h1 {
+  color: #757575;
+}
+
+input {
+  font-size: 18px;
+}
+
+button {
+  font-size: 18px;
+}
+
+.social-icons a { 
+  color: black;
+}
+
+.prof-pic {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.img-comment-list {
+    list-style: none;  
+    padding: 0;
+}
+.img-comment-list li {
+    margin:0;
+    margin-top:10px;
+}
+
+.img-comment-list li > div {
+    display:table-cell;
+}
+
+.img-comment-list img {
+    border-radius:50%;
+    width: 42px;
+    height: 42px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.img-comment-list p {
+    margin: 0;
+}
