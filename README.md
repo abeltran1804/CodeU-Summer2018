@@ -1,7 +1,5 @@
-# CodeU Example Project
-
-This is an example chat application. It's complete and functional, but leaves
-plenty of room for improvement.
+# CodeU Team AMA
+We expanded upong the initial base CodeU application to make it our own. We opted to create a chat application that allowed users to interact with one another by utalizing the Google Maps API. The "Maps" page, let's users post comments or insights to particular places from around the world. Futhermore, users can edit their pages to customize it to however they like. Teammates included: @aylinev2 @acolwell (PA) 
 
 ## Step 1: Download Java
 
@@ -77,10 +75,4 @@ browser to [http://localhost:8080](http://localhost:8080).
 
 ## Step 6: Make a change!
 
-- Bring down the existing server by pressing `ctrl+c` in the console running the
-App Engine devserver.
-- Modify a `.java` or `.jsp` file. (Try updating the homepage by editing the
-`index.jsp` file.)
-- Bring the devserver back up by executing `mvn clean appengine:devserver`
-again.
-- Refresh your browser to see your changes!
+In the span of 3 months we were able to make the base chat app our own! Check it out @http://projectama-203819.appspot.com/
